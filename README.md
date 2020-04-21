@@ -4,7 +4,7 @@ Taberna Modpack is the Mod and Config of Taberna Modpack compiled in Zip file re
 
 ### Requirement 
 
-- The ModPack required `2Go` of Ram
+- The ModPack required `2Go` of Ram `Minimum`
 - Java `8` or Newer
 - The last update of Taberna Launcher
 
