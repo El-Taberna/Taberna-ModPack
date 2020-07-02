@@ -1,6 +1,6 @@
-# Taberna ModPack
+# Taberna ModPack 6
 
-Taberna Modpack is the Mod and Config of Taberna Modpack compiled in Zip file ready to be upload on the Taberna own server to be ready.
+Taberna Modpack 6 is the Mod and Config of Taberna Modpack compiled in Zip file ready to be upload on the Taberna own server.
 
 ### Requirement 
 
