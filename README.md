@@ -2,26 +2,20 @@
 
 Taberna Modpack is the Mod and Config of Taberna Modpack compiled in Zip file ready to be upload on the Taberna own server to be ready.
 
-### Requirement 
+## Requirement 
 
-- The ModPack required `2Go` of Ram `Minimum`
-- Java `8` or Newer
-- The last update of Taberna Launcher
+-   The ModPack required `2Go` of Ram `Minimum`
+-   Java `8` or Newer
+-   The last update of Taberna Launcher
 
-
-
-### Installation
+## Installation
 
 Download the last update of [Taberna Launcher](https://github.com/yoannbt2001/Taberna-ModPack/releases/latest).
 
-
-
-### Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-
-
-### License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
