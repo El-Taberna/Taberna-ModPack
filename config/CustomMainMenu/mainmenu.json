@@ -34,8 +34,8 @@
             "posY" : -50,
             "width" : 94,
             "height" : 20,
-			imageWidth : 90,
-			imageHeight : 40,
+			"imageWidth" : 90,
+			"imageHeight" : 40,
 			"alignment" : "left_center",
             "action" :
             {
@@ -54,8 +54,8 @@
                 "posY" : -30,
                 "width" : 94,
                 "height" : 20,
-    			imageWidth : 90,
-    			imageHeight : 40,
+    			"imageWidth" : 90,
+    			"imageHeight" : 40,
     			"alignment" : "left_center",
                 "action" :
                 {
@@ -115,8 +115,8 @@
                     "posY" : 100,
                     "width" : 94,
                     "height" : 20,
-        			imageWidth : 90,
-        			imageHeight : 40,
+        			"imageWidth" : 90,
+        			"imageHeight" : 40,
         			"alignment" : "left_center",
                     "action" :
                     {
