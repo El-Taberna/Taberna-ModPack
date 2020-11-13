@@ -1,5 +1,6 @@
 # Taberna ModPack
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/35912847e9e2408386ae5d9f4429f670)](https://app.codacy.com/gh/El-Taberna/Taberna-ModPack?utm_source=github.com&utm_medium=referral&utm_content=El-Taberna/Taberna-ModPack&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/26714707da14451982c12077cd7764f1)](https://app.codacy.com/manual/yoann.2001/Taberna-ModPack?utm_source=github.com&utm_medium=referral&utm_content=yoannbt2001/Taberna-ModPack&utm_campaign=Badge_Grade_Settings)
 
 Taberna Modpack is the Mod and Config of Taberna Modpack compiled in Zip file ready to be upload on the Taberna own server to be ready.
