@@ -27,15 +27,13 @@
 		"singleplayer":
         {
             "text" : "menu.singleplayer",
-			"normalTextColor" : 16754944,
+			"normalTextColor" : 13849600,
 			"hoverTextColor" : 16738560,
 			"texture" : "custommainmenu:textures/gui/btn.png",
             "posX" : 53,
             "posY" : -50,
             "width" : 94,
             "height" : 20,
-			"imageWidth" : 90,
-			"imageHeight" : 40,
 			"alignment" : "left_center",
             "action" :
             {
@@ -47,15 +45,13 @@
         "Taberna Server":
             {
                 "text" : "Taberna Server",
-    			"normalTextColor" : 16754944,
+    			"normalTextColor" : 13849600,
     			"hoverTextColor" : 16738560,
     			"texture" : "custommainmenu:textures/gui/btn.png",
                 "posX" : 53,
                 "posY" : -30,
                 "width" : 94,
                 "height" : 20,
-    			"imageWidth" : 90,
-    			"imageHeight" : 40,
     			"alignment" : "left_center",
                 "action" :
                 {
@@ -63,67 +59,78 @@
                   "ip" : "private.el-taberna.com"
                 }
             },
-
-
-            "options":
+			
+        "Non-Official Server":
+            {
+                "text" : "Non-Official Server",
+    			"normalTextColor" : 13849600,
+    			"hoverTextColor" : 16738560,
+    			"texture" : "custommainmenu:textures/gui/btn.png",
+                "posX" : 53,
+                "posY" : -10,
+                "width" : 94,
+                "height" : 20,
+    			"alignment" : "left_center",
+                "action" :
                 {
-                    "text" : "menu.options",
-        			"normalTextColor" : 16754944,
-        			"hoverTextColor" : 16738560,
-        			"texture" : "custommainmenu:textures/gui/btn.png",
-                    "posX" : 53,
-                    "posY" : -10,
-                    "width" : 94,
-                    "height" : 20,
-              "imageWidth" : 90,
-              "imageHeight" : 40,
-        			"alignment" : "left_center",
-                    "action" :
-                    {
-                        "type" : "openGui",
-                        "gui" : "options"
-                    }
-                },
-
-                "quit":
-                {
-                    "text" : "menu.quit",
-        			"normalTextColor" : 16729156,
-        			"hoverTextColor" : 11732486,
-        			"texture" : "custommainmenu:textures/gui/btn.png",
-                    "posX" : 53,
-                    "posY" : 10,
-                    "width" : 94,
-                    "height" : 20,
-              "imageWidth" : 90,
-              "imageHeight" : 40,
-        			"alignment" : "left_center",
-        			"hoverText" : "No! Don't leave!",
-                    "action" :
-                    {
-                        "type" : "quit"
-                    }
-                },
-
-                "mods":
-                {
-                    "text" : "Mods (#modsloaded#/#modsactive#)",
-              "normalTextColor" : 16754944,
-              "hoverTextColor" : 16738560,
-        			"texture" : "custommainmenu:textures/gui/btn.png",
-                    "posX" : 53,
-                    "posY" : 100,
-                    "width" : 94,
-                    "height" : 20,
-        			"imageWidth" : 90,
-        			"imageHeight" : 40,
-        			"alignment" : "left_center",
-                    "action" :
-                    {
-                        "type" : "openGui",
-                        "gui" : "mods"
-                    }
+                  "type" : "openGui",
+                  "gui" : "multiplayer"
                 }
+            },
+			
+        "options":
+            {
+                "text" : "menu.options",
+        		"normalTextColor" : 13849600,
+        		"hoverTextColor" : 16738560,
+				"texture" : "custommainmenu:textures/gui/btn.png",
+                "posX" : 53,
+                "posY" : 10,
+                "width" : 94,
+                "height" : 20,
+        		"alignment" : "left_center",
+                "action" :
+                {
+                    "type" : "openGui",
+                    "gui" : "options"
+                }
+            },
+
+        "quit":
+            {
+                "text" : "menu.quit",
+				"normalTextColor" : 11732486,
+        		"hoverTextColor" : 14037041,
+        		"texture" : "custommainmenu:textures/gui/btn.png",
+                "posX" : 53,
+                "posY" : 30,
+                "width" : 94,
+                "height" : 20,
+				"alignment" : "left_center",
+        		"hoverText" : "No! Don't leave!",
+                "action" :
+                {
+                    "type" : "quit"
+                }
+            },
+
+        "mods":
+        {
+            "text" : "Mods (#modsloaded#/#modsactive#)",
+            "normalTextColor" : 13849600,
+            "hoverTextColor" : 16738560,
+        	"texture" : "custommainmenu:textures/gui/btn.png",
+            "posX" : 53,
+            "posY" : 100,
+            "width" : 94,
+            "height" : 20,
+        	"alignment" : "left_center",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
     },
 
     "texts":
