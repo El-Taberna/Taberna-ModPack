@@ -12,7 +12,7 @@ Taberna Modpack is the Mod and Config of Taberna Modpack compiled in Zip file re
 
 ## Installation
 
-Download the last update of [Taberna Launcher](https://github.com/yoannbt2001/Taberna-ModPack/releases/latest).
+Download the last update of [Taberna Launcher](https://github.com/El-Taberna/Taberna-Launcher/releases/latest).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
